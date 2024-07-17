@@ -16,6 +16,9 @@
     "noImplicitAny": false,
     "strictBindCallApply": false,
     "forceConsistentCasingInFileNames": false,
-    "noFallthroughCasesInSwitch": false
+    "noFallthroughCasesInSwitch": false,
+    //
+
+    // "esModuleInterop": true, // 允许使用 import/export 与 CommonJS 交互
   }
 }
